@@ -1,0 +1,8 @@
+name: adapter-py311
+channels:
+  - defaults
+dependencies:
+  - pip=22.2.2=py311hecd8cb5_0
+  - python=3.11.0=h1fd4e5f_2
+  - setuptools=65.5.0=py311hecd8cb5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
